@@ -3,9 +3,9 @@ markdown: redcarpet
 highlighter: pygments
   
 # Site settings
-title: "Celestine Omin"
+title: "Daniel Olel"
 description: > # this means to ignore newlines until "email:"
-   On Software, life and everything in-between
+   On Software, Machine Learning, Life.
 
 email: celestineomin@gmail.com
 #blog logo
@@ -13,19 +13,19 @@ logo: "/assets/images/author.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Celestine Omin'
-author: 'Celestine Omin'
+name: 'Daniel Olel'
+author: 'Daniel Olel'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://cyberomin.github.io" # the base hostname & protocol for your site
+url: "http://dolel13.github.io" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/cyberomin
+    url:	https://twitter.com/OlelDaniel
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -39,7 +39,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/cyberomin
+    url:	https://github.com/dolel13
     desc:	Fork me on github
     share_url:
     share_title:
